@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
