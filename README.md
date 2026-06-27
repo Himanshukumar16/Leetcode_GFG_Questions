@@ -47,4 +47,12 @@
 | ------- |
 | [0136-single-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
