@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0283-move-zeroes) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -39,6 +41,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -63,4 +66,12 @@
 | ------- |
 | [0046-permutations](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0090-subsets-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
