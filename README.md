@@ -11,6 +11,7 @@
 | [0001-two-sum](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0090-subsets-ii) |
@@ -41,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 ## Sorting
@@ -90,5 +92,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
