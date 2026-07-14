@@ -14,6 +14,7 @@
 | [0046-permutations](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0136-single-number) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0283-move-zeroes) |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
