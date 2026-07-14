@@ -17,6 +17,7 @@
 | [0075-sort-colors](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0189-rotate-array) |
@@ -100,4 +101,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
