@@ -29,6 +29,7 @@
 | [0283-move-zeroes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0493-reverse-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -119,4 +122,20 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0118-pascals-triangle) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
