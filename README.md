@@ -31,6 +31,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0493-reverse-pairs) |
+| [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@
 | [0189-rotate-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0371-sum-of-two-integers) |
+| [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [0053-maximum-subarray](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -140,4 +143,16 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0493-reverse-pairs) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
