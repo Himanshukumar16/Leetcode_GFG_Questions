@@ -33,6 +33,7 @@
 | [0493-reverse-pairs](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0493-reverse-pairs) |
 | [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0229-majority-element-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3731-find-missing-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0229-majority-element-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3731-find-missing-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
