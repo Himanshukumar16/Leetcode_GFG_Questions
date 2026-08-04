@@ -8,13 +8,13 @@ class Solution {
             if (i > max) max = i;
             if (i < min) min = i;
         }
-        System.out.println(min + " "+ max);
+        int[] hashArr = new int[max+1];
+        for (int i : nums) {
+            hashArr[i]++;
+        }
+        // System.out.println(min + " "+ max);
         for (int i = min+1; i < max; i++) {
-            for (int j : nums) {
-                if (j == i) isThere = true;
-            }
-            if (!isThere) lst.add(i);
-            isThere = false;
+            if (hashArr[i] == 0) lst.add(i);
         }
         return lst;
     }
