@@ -33,6 +33,7 @@
 | [0485-max-consecutive-ones](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3731-find-missing-elements) |
@@ -86,6 +87,7 @@
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
