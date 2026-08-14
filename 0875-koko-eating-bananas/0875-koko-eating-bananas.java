@@ -7,7 +7,7 @@ class Solution {
         int ans = -1;
         while (low <= high) {
             int mid = low +(high - low) / 2;
-            int s = totalBananaEaten(mid, piles);
+            long s = totalBananaEaten(mid, piles);
             if (s <= h) {
                 ans = mid;
                 high = mid - 1;
@@ -15,10 +15,10 @@ class Solution {
         }
         return ans;
     }
-    int totalBananaEaten(int mid, int[] nums) {
-        int sum = 0;
+    long totalBananaEaten(int mid, int[] nums) {
+        long sum = 0;
         for (int i = 0; i < nums.length; i++) {
-            sum += Math.ceil((double)nums[i] / mid);
+            sum += (nums[i] + mid - 1) / mid;
         }
         return sum;
     }
