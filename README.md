@@ -40,6 +40,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -103,6 +104,7 @@
 | [0493-reverse-pairs](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
 |  |
