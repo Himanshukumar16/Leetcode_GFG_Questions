@@ -31,6 +31,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0283-move-zeroes) |
@@ -76,6 +77,7 @@
 | [0048-rotate-image](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
@@ -196,4 +198,24 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
