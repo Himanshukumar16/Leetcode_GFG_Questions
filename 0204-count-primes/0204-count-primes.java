@@ -3,9 +3,9 @@ class Solution {
         ArrayList<Integer> al = new ArrayList<>();
         int[] isPrimeArr = new int[n + 1];
         int cnt = 0;
-        for (int i = 2; i <= n; i++) {
+        for (int i = 2; i <= Math.sqrt(n); i++) {
             if (isPrimeArr[i] == 0) {
-                for (int j = 2 * i; j < n; j += i) {
+                for (int j = i * i; j < n; j += i) {
                     isPrimeArr[j] = 1;
                 }
             }
