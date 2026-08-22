@@ -84,6 +84,7 @@
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
 |  |
 | ------- |
