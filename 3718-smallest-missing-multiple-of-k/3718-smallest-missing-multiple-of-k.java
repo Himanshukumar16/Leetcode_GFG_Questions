@@ -1,14 +1,14 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
-        
-        for (int i = 1; i < nums.length + 1; i++) {
-            int multiplePresent = 0;
-            for (int j = 0; j < nums.length; j++) {
-                if (k * i == nums[j]) multiplePresent++;
-            }
-            if (multiplePresent == 0) return k * i;
-        }
 
-        return nums[nums.length-1] + k; 
+        // if (nums.length == 1 && nums[0] == k) return k + nums[0];
+        Set<Integer> set = new HashSet<>();
+        for (int i : nums) {
+            set.add(i);
+        }
+        for (int i = 0; i < k * nums.length + 2; i++) {
+            if (!set.contains(k * (i+1))) return k * (i+1);
+        }
+        return -1;
     }
 }
