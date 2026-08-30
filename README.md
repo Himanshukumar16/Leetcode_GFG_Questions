@@ -53,6 +53,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1748-sum-of-unique-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1748-sum-of-unique-elements) |
 | [1901-find-a-peak-element-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1901-find-a-peak-element-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2643-row-with-maximum-ones) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -255,6 +256,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0410-split-array-largest-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String
 |  |
 | ------- |
