@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0204-count-primes) |
@@ -149,6 +150,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0509-fibonacci-number) |
 ## Backtracking
