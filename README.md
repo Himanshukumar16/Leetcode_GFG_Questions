@@ -158,6 +158,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0090-subsets-ii) |
 ## Divide and Conquer
@@ -193,6 +194,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0152-maximum-product-subarray) |
@@ -270,10 +272,15 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0344-reverse-string) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
