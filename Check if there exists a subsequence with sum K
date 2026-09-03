@@ -1,0 +1,18 @@
+class Solution {
+    public boolean checkSubsequenceSum(int[] nums, int k) {
+        //your code goes here
+        List<Integer> lst = new ArrayList<>();
+        return sum(lst, nums, 0, k);
+    }
+    boolean sum(List<Integer> lst, int[] nums, int index, int k){
+        if (k < 0 || index == nums.length) {
+            return (k == 0);
+        }
+        if (k == 0) return true;
+        lst.add(nums[index]);
+        boolean part1 = sum(lst,nums,index+1,k-nums[index]);
+        lst.remove(lst.size()-1);
+        boolean part2 = sum(lst,nums,index+1,k);
+        return part1 || part2;
+    }
+}
