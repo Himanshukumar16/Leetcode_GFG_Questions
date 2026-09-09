@@ -36,6 +36,7 @@
 | [0169-majority-element](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
@@ -128,6 +129,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -239,6 +241,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -286,4 +289,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0022-generate-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
