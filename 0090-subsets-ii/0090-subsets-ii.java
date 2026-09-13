@@ -7,7 +7,6 @@ class Solution {
     }
     private void getSubset(List<Integer> lst, List<List<Integer>> ans, int[] arr, int index) {
         if (index == arr.length) {
-            Collections.sort(lst);
             if (!ans.contains(lst)) {
                 ans.add(new ArrayList<>(lst));
             }
@@ -16,6 +15,12 @@ class Solution {
         lst.add(arr[index]);
         getSubset(lst,ans,arr,index+1);
         lst.remove(lst.size()-1);
-        getSubset(lst,ans,arr,index+1);
+        for (int i = index + 1; i < arr.length; i++) {
+            if (arr[i] != arr[index]) {
+                getSubset(lst, ans, arr, i);
+                return;
+            }
+        }
+        getSubset(lst, ans, arr, arr.length);
     }
 }
