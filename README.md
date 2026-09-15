@@ -53,6 +53,7 @@
 | [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1748-sum-of-unique-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1748-sum-of-unique-elements) |
@@ -91,6 +92,7 @@
 | [0283-move-zeroes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -119,6 +121,7 @@
 | [0229-majority-element-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3731-find-missing-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -143,6 +146,7 @@
 | [0875-koko-eating-bananas](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
