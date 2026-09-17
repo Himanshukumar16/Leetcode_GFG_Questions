@@ -54,6 +54,7 @@
 | [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
