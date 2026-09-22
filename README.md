@@ -200,6 +200,7 @@
 | [0258-add-digits](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -297,6 +298,7 @@
 | [0022-generate-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0344-reverse-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
 | ------- |
