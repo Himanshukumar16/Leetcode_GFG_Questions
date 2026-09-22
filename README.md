@@ -178,6 +178,7 @@
 | [0046-permutations](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0216-combination-sum-iii) |
 ## Divide and Conquer
 |  |
@@ -216,6 +217,7 @@
 | [0022-generate-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0509-fibonacci-number) |
@@ -297,6 +299,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0344-reverse-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
