@@ -19,6 +19,7 @@
 | [0035-search-insert-position](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0074-search-a-2d-matrix) |
@@ -177,6 +178,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0090-subsets-ii) |
@@ -323,4 +325,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
