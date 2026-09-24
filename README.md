@@ -66,6 +66,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2643-row-with-maximum-ones) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -112,6 +113,7 @@
 | [0371-sum-of-two-integers](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3875-construct-uniform-parity-array-i) |
