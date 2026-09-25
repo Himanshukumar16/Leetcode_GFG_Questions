@@ -17,6 +17,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0051-n-queens) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0229-majority-element-ii) |
@@ -179,6 +181,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0078-subsets) |
@@ -211,6 +214,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0074-search-a-2d-matrix) |
@@ -330,5 +334,10 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
