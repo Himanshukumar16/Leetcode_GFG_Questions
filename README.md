@@ -314,6 +314,7 @@
 | [0125-valid-palindrome](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0344-reverse-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
@@ -323,6 +324,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -341,4 +343,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0037-sudoku-solver) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
