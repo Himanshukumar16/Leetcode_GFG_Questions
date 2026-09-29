@@ -1,0 +1,33 @@
+/* Structure of Linked List Node
+class Node {
+	int data;
+	Node next;
+	
+	Node(int x) {
+		data = x;
+		next = null;
+	}
+}
+*/
+class Solution {
+	public Node insertPos(Node head, int k, int X) {
+		// code here
+		Node temp = head;
+		Node newNode = new Node(X);
+		if (k == 1) {
+			newNode.next = head;
+			head = newNode;
+			return head;
+		}
+		int cnt = 0;
+		while (temp.next != null) {
+			cnt++;
+			if (cnt == k - 1)
+				break;
+			temp = temp.next;
+		}
+		newNode.next = temp.next;
+		temp.next = newNode;
+		return head;
+	}
+}
