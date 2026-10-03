@@ -125,6 +125,7 @@
 | [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3870-count-commas-in-range) |
@@ -188,6 +189,7 @@
 | [0328-odd-even-linked-list](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -366,4 +368,5 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
