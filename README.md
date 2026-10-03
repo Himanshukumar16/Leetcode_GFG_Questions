@@ -55,6 +55,7 @@
 | [0724-find-pivot-index](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -122,6 +123,7 @@
 | [0371-sum-of-two-integers](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
