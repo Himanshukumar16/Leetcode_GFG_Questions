@@ -337,6 +337,7 @@
 | [0131-palindrome-partitioning](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0344-reverse-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3498-reverse-degree-of-a-string](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
