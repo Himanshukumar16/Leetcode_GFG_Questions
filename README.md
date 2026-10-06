@@ -332,6 +332,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0131-palindrome-partitioning) |
