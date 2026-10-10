@@ -82,6 +82,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
@@ -102,6 +103,7 @@
 | [0075-sort-colors](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0283-move-zeroes) |
@@ -185,6 +187,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0234-palindrome-linked-list) |
