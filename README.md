@@ -69,6 +69,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -317,6 +318,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
