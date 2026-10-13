@@ -67,6 +67,7 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2057-smallest-index-with-equal-value](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -154,6 +155,7 @@
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -350,6 +352,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0410-split-array-largest-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## String
 |  |
 | ------- |
