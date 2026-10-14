@@ -103,6 +103,7 @@
 | [0018-4sum](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0075-sort-colors) |
@@ -358,6 +359,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0125-valid-palindrome) |
@@ -407,4 +409,20 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0142-linked-list-cycle-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
