@@ -134,6 +134,7 @@
 | [0069-sqrtx](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0371-sum-of-two-integers) |
@@ -194,6 +195,7 @@
 | [0078-subsets](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0371-sum-of-two-integers) |
 ## Linked List
@@ -224,6 +226,7 @@
 | [0050-powx-n](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0509-fibonacci-number) |
 ## Backtracking
