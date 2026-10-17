@@ -143,6 +143,7 @@
 | [0509-fibonacci-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0989-add-to-array-form-of-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -204,6 +205,7 @@
 | [0268-missing-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0461-hamming-distance) |
+| [1486-xor-operation-in-an-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Linked List
 |  |
