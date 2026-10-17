@@ -1,17 +1,21 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        Map<Integer, Integer> map = new HashMap<>();
+        int b1 = 0;
+        int b2 = 0;
+        int xor = 0;
+
         for (int i : nums) {
-            map.put(i, map.getOrDefault(i,0)+1);
+            xor ^= i;
         }
-        int[] ans = {-1,-1};
-        int ind = 0;
-        for (int i : map.keySet()) {
-            if (map.get(i) == 1) {
-                ans[ind] = i;
-                ind++;
-            }
+
+        int rightDiffBit = (xor & (xor - 1)) ^ xor;
+
+        for (int i : nums) {
+
+            if ((rightDiffBit & i)  == 0) b2 ^= i;
+            else b1 ^= i;
         }
-        return ans;
+
+        return (b1 < b2) ? new int[]{b1,b2} : new int[]{b2,b1};
     }
 }
