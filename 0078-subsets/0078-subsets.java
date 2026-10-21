@@ -1,19 +1,16 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        // Arrays.sort(nums);
-        List<List<Integer>> powerSet = new ArrayList<>();
-        List<Integer> generated = new ArrayList<>();
-        generatePowerSet(powerSet,generated,nums,0);
-        return powerSet;
-    }
-    void generatePowerSet(List<List<Integer>> olst, List<Integer> lst, int[] arr, int index) {
-        if (index == arr.length) {
-            olst.add(new ArrayList<>(lst));
-            return;
+        int n = nums.length;
+        int subset = 1 << n;
+        List<List<Integer>> answer = new ArrayList<>();
+
+        for (int i = 0; i < subset; i++) {
+            List<Integer> lst = new ArrayList<>();
+            for (int j = 0; j < n; j++) {
+                if ((i & (1 << j)) != 0) lst.add(nums[j]);
+            }
+            answer.add(lst);
         }
-        generatePowerSet(olst, lst, arr, index+1);
-        lst.add(arr[index]);
-        generatePowerSet(olst, lst, arr, index+1);
-        lst.remove(lst.size()-1);
+        return answer;
     }
 }
