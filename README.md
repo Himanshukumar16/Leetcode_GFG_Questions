@@ -72,6 +72,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2643-row-with-maximum-ones](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -129,6 +130,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 | [0455-assign-cookies](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -379,6 +382,7 @@
 | [0455-assign-cookies](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/0455-assign-cookies) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Himanshukumar16/Leetcode_And_GFG_Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
